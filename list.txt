@@ -2,3 +2,8 @@
 birnen
 bier
 leberkäse
+chips
+cola
+wurst
+käse
+

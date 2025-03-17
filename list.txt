@@ -6,4 +6,5 @@ chips
 cola
 wurst
 käse
+fanta
 
